@@ -1,0 +1,5 @@
+C:\Users\Quantum Secure\Documents\Visual Studio 2005\Projects\Conversion\Conversion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Quantum Secure\Documents\Visual Studio 2005\Projects\Conversion\Conversion\bin\Debug\Conversion.exe
+C:\Users\Quantum Secure\Documents\Visual Studio 2005\Projects\Conversion\Conversion\bin\Debug\Conversion.pdb
+C:\Users\Quantum Secure\Documents\Visual Studio 2005\Projects\Conversion\Conversion\obj\Debug\Conversion.exe
+C:\Users\Quantum Secure\Documents\Visual Studio 2005\Projects\Conversion\Conversion\obj\Debug\Conversion.pdb
